@@ -32,7 +32,7 @@ const useStyles = makeStyles((theme) => ({
   }
 }));
 
-// Remember to set Name of Copied Component to File name i.e., Navbar
+// Remember to set Name of Copied Component to File name i.e., Navbar  
 export default function Navbar() {
   const classes = useStyles(); // Styling Object 
 
